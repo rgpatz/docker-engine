@@ -125,7 +125,7 @@ echo ""
 echo "Setting up Nexpose Scan Engine Docker container..."
 
 # Note: The image name might need to be updated based on actual Rapid7 registry
-NEXPOSE_IMAGE="rapid7/nexpose-scan-engine:latest"
+NEXPOSE_IMAGE="rapid7/insightvm_scan_engine:latest"
 CONTAINER_NAME="nexpose-scan-engine"
 
 # Check if container already exists
