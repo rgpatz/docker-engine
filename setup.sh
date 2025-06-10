@@ -119,7 +119,7 @@ fi
 
 ##############################################
 # Section 2: Nexpose Scan Engine Setup (in Docker)
-##############################################
+###############################################
 
 echo ""
 echo "Setting up Nexpose Scan Engine Docker container..."
